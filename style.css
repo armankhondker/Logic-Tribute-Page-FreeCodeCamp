@@ -1,0 +1,20 @@
+/* Written by: Arman Khondker
+   Description: CSS code for Logic Tribute Page 
+ 
+
+ */
+
+
+body {
+  font-family: Arial Black,Times New Roman; 
+  background-color:black;
+  color:white; 
+}
+
+h1{
+  font-size: 100px;
+  margin-bottom:20px; 
+}
+h4{
+  font-size: 30px;
+}
